@@ -19,5 +19,5 @@ const soan = {
   code: ["TypeScript", "JavaScript", "Python", "Rust", "C", "C++", "C#", "Java", "PHP"],
   roles: ["Fullstack Developer", "Learner", "Creator"],
   currentFocus: "Building cool fullstack projects & modern web tools",
-  interests: ["Web Development", "UI/UX Design", "Pixel Art"]
+  interests: ["Web Development", "UI/UX Design"]
 }
