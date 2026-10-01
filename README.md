@@ -1,16 +1,23 @@
-## Hi there 👋
+<h2> Hi there, I'm Soan <img src="./Assets/wave.gif" width="35"></h2>
 
-<!--
-**rtz-devfr/rtz-devfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><em>
+  🚀 Fullstack Developer & Tech Enthusiast <img src="./Assets/sparkles.gif" width="25">
+  <br/>
+  🇫🇷 Based in France <img src="./Assets/flag.gif" width="25">
+  <br/>
+  💻 Passionate about building web apps <img src="./Assets/laptop.gif" width="25">
+</em></p>
 
-Here are some ideas to get you started:
+<!-- Image / GIF aligné à droite de la section -->
+<img align='right' src="./Assets/coder_side.gif" width="300">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A little more about me... <img src="./Assets/star.gif" width="30">
+
+```javascript
+const soan = {
+  pronouns: "he/him",
+  code: ["TypeScript", "JavaScript", "Python", "Rust", "C", "C++", "C#", "Java", "PHP"],
+  roles: ["Fullstack Developer", "Learner", "Creator"],
+  currentFocus: "Building cool fullstack projects & modern web tools",
+  interests: ["Web Development", "UI/UX Design", "Pixel Art"]
+}
